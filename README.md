@@ -8,3 +8,7 @@ branching, merging, stashing, cherry-picking, reverting and pull requests.
 ```bash
 python src/calculator.py
 ```
+
+## Documentation
+
+See [docs/usage.md](docs/usage.md) for usage examples.
