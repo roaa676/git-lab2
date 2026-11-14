@@ -19,8 +19,13 @@ def divide(a, b):
     return a / b
 
 
+def power(base, exponent):
+    return base ** exponent
+
+
 if __name__ == "__main__":
     print("2 + 3 =", add(2, 3))
     print("5 - 2 =", subtract(5, 2))
     print("4 * 6 =", multiply(4, 6))
     print("9 / 3 =", divide(9, 3))
+    print("2 ^ 8 =", power(2, 8))
